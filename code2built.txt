@@ -1,0 +1,1 @@
+code a project and use it to manage the teams, it should be a game
